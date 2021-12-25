@@ -216,18 +216,6 @@ export default function DashboardPage(
           </>
         )}
       </div>
-      <div className="mt-6 text-gray-400">
-        Looking to get better at USACO? Check out the{' '}
-        <a
-          href="https://usaco.guide/"
-          target="_blank"
-          rel="noreferrer"
-          className="underline hover:text-white"
-        >
-          USACO Guide
-        </a>
-        !
-      </div>
     </div>
   );
 }
