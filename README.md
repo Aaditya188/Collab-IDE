@@ -1,6 +1,6 @@
 # Realtime Collaborative IDE
 
-A realtime collaborative IDE with code execution, input/output, and built-in USACO submissions. Designed primarily for Competitive Programming and USACO, with mobile support for coding on the go.
+A realtime collaborative IDE with code execution, input/output. Designed primarily for Competitive Programming, with mobile support for coding on the go.
 
 ## Running Locally
 
