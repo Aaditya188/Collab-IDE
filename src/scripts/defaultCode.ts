@@ -1,5 +1,5 @@
 export default {
-  cpp: `// Source: https://usaco.guide/general/io
+  cpp: `// Team Nexus : IDE+ (A Collaborative Online IDE)
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -9,7 +9,7 @@ int main() {
 \tcout << "sum is " << a+b+c << "\\n";
 }
 `,
-  java: `// Source: https://usaco.guide/general/io
+  java: `// Team Nexus : IDE+ (A Collaborative Online IDE)
 
 /** Simple yet moderately fast I/O routines.
  *
@@ -96,7 +96,7 @@ public class Main {
 \t}
 }
 `,
-  py: `# Source: https://usaco.guide/general/io
+  py: `# Team Nexus : IDE+ (A Collaborative Online IDE)
 
 a,b,c = map(int, input().split())
 print("sum is",a+b+c)
