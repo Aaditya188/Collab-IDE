@@ -23,13 +23,13 @@ import { firebaseUserAtom } from '../atoms/firebaseUserAtoms';
 import { userSettingsRefAtom, _userSettingsAtom } from '../atoms/userSettings';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCKJjHFV-Kr9WQEmnDGCQp6WxQfMajdGmw",
-  authDomain: "ideplus.firebaseapp.com",
-  databaseURL: "https://ideplus-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "ideplus",
-  storageBucket: "ideplus.appspot.com",
-  messagingSenderId: "802071840276",
-  appId: "1:802071840276:web:42ecfa59f35ebf45620901"
+  apiKey: "AIzaSyDDalW7JguIFtMUkcd8Uyg5EhqbkvBnDKs",
+  authDomain: "ide-plus.firebaseapp.com",
+  databaseURL: "https://ide-plus-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "ide-plus",
+  storageBucket: "ide-plus.appspot.com",
+  messagingSenderId: "542861368838",
+  appId: "1:542861368838:web:ef6d24d69d8996caf96d87"
 };
 
 if (typeof window !== 'undefined') {
