@@ -130,7 +130,7 @@ export default function EditorPage(props: EditorPageProps): JSX.Element {
       compilerOptions: settings.compilerOptions[lang],
     };
     return fetch(
-      `https://oh2kjsg6kh.execute-api.us-west-1.amazonaws.com/Prod/execute`,
+      `https://ggzk2rm2ad.execute-api.us-west-1.amazonaws.com/Prod/execute`,
       {
         method: 'POST',
         headers: {
